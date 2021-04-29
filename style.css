@@ -35,7 +35,7 @@ h1 {
   justify-content: center;
   padding: 10%;
 
-  /* lorem picsum picture change no to 1200 and set size to cover */
+
 }
 .line {
   width: 10px;
@@ -66,7 +66,7 @@ h1 {
   grid-row: 4;
 }
 .timeline-item {
-  /* add glassmorphism stuff */
+  
   color: white;
   padding: 10%;
   margin: 10%;
